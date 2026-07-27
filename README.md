@@ -1,10 +1,14 @@
 <div align="center">
 
 # 👋 Hi, I'm Dukuru Venkatesh
-### 🤖 AI/ML Developer | Full-Stack Engineer | Data Scientist
+### AI/ML Engineer · Full-Stack Developer · Founder
+
+Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automation & intelligent backends — with **4+ years** of hands-on experience.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=venkateshdukuru&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=venkateshdukuru)
+![GitHub followers](https://img.shields.io/github/followers/venkateshdukuru?label=Followers&style=flat&color=0e75b6)
+
+[🌐 Portfolio](https://dukuru-venkatesh.vercel.app) · [✉️ Email](mailto:venkateshdukuru2266@gmail.com) · [💬 WhatsApp](https://wa.me/916300982015)
 
 </div>
 
@@ -12,10 +16,12 @@
 
 ## 📌 Quick Overview
 
-- 🎯 **Specialization:** AI/ML Development, Deep Learning, Natural Language Processing
-- 📝 **Writing:** Regular contributor to [GeeksforGeeks](https://www.geeksforgeeks.org/user/dukuru_venkatesh/contributions/)
-- 💼 **Open to:** Collaboration on AI/ML projects, research, and open-source contributions
-- 📧 **Contact:** venkateshdukuru2266@gmail.com
+- 🔭 **Currently:** AI Developer @ [Skills Agency](https://www.linkedin.com/company/skills-agency) (Bengaluru, On-site)
+- 🚀 **Founder:** [Dukuru AI](https://dukuru-ai.vercel.app/) & [ProjectsPlace](https://www.projectsplace.in/)
+- 🎯 **Specialization:** LLMs, RAG systems, voice agents, computer vision, and enterprise AI automation
+- 📝 **Writing:** Regular contributor on [GeeksforGeeks](https://www.geeksforgeeks.org/user/dukuru_venkatesh/contributions/)
+- 📍 **Based in:** Visakhapatnam, Andhra Pradesh, India · open to remote & relocation
+- 💼 **Open to:** Freelance projects, full-time roles, and AI/ML collaborations
 
 ---
 
@@ -23,7 +29,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatesh-dukuru-90793022b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dukuru-venkatesh-90793022b/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dukuru-venkatesh.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916300982015)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dukuru_venkatesh/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dukuruvenkatesh)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/venkateshdukuru)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venkateshdukuru2266)
 [![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Dukuruvenkatesh6106)
@@ -33,120 +43,137 @@
 
 ---
 
-## 🛠️ Technical Stack
+## 🚀 What I'm Building
 
-### 🐍 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Primary:** Python &nbsp;|&nbsp; **Secondary:** C
+### [Dukuru AI](https://dukuru-ai.vercel.app/)
+Personal AI platform showcasing generative AI tools, agents, and automated workflows — built end-to-end with Next.js, FastAPI, and LangChain.
 
-### 🧠 AI/ML & Deep Learning
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45" title="TensorFlow"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45" title="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="45" height="45" title="Keras"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="45" height="45" title="Scikit-Learn"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="45" height="45" title="Hugging Face"/>
-</p>
+### [ProjectsPlace](https://www.projectsplace.in/)
+A platform connecting developers and learners through hands-on, mentor-guided project experience — from idea to deployment.
 
-- **Deep Learning:** TensorFlow, PyTorch, Keras
-- **Machine Learning:** Scikit-Learn, XGBoost, LightGBM, CatBoost
-- **Data Processing:** Pandas, NumPy, SciPy, Seaborn, Matplotlib
-- **Computer Vision:** OpenCV, Pillow, Albumentations, scikit-image
-- **NLP:** Hugging Face Transformers, spaCy, NLTK, TextBlob, Gensim
-- **Reinforcement Learning:** OpenAI Gym, Stable-Baselines3, Ray RLlib
-- **Experiment Tracking:** Weights & Biases, MLflow, TensorBoard, Plotly
-
-### 🌐 Web Development
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45"/>
-</p>
-
-- **Frontend:** HTML5, CSS3, JavaScript, Node.js
-- **Backend:** Django, Flask, FastAPI, Express.js
-
-### 💾 Databases
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-</p>
-
-- PostgreSQL, MySQL, MongoDB, Cassandra, Redis
-
-### 🐳 DevOps & Cloud
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="45" height="45"/>
-</p>
-
-- **Containers/Orchestration:** Docker, Kubernetes
-- **CI/CD:** Jenkins, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud
-
-### 🔧 Developer Tools
-
-- Git, GitHub, VS Code, Linux, Nginx, Postman, Selenium
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 AI/ML Expertise Areas
+## 💡 Featured Live Products
 
-- ✅ **Supervised Learning:** Classification, Regression, Ensemble Methods
-- ✅ **Unsupervised Learning:** Clustering, Dimensionality Reduction, Anomaly Detection
-- ✅ **Deep Learning:** CNNs, RNNs, LSTMs, Transformers, GANs
-- ✅ **NLP:** Text Classification, NER, Sentiment Analysis, Machine Translation
-- ✅ **Computer Vision:** Image Classification, Object Detection, Semantic Segmentation, Face Recognition
-- ✅ **Reinforcement Learning:** Q-Learning, Policy Gradient Methods, Actor-Critic Methods
-- ✅ **Time Series:** ARIMA, Prophet, LSTM-based Models, Forecasting
+| Project | What it does | Stack |
+|---|---|---|
+| 🎙️ [**Votiva**](https://votiva.kluvor.co/) | AI voice agents automating customer calls & sales conversations at scale | FastAPI, LangChain, OpenAI, Gemini, AWS EC2 |
+| 📊 [**KaratMind**](https://karatmind.com/home) | Sales intelligence platform: transcribes & analyzes in-store retail conversations for coaching insights | Groq Whisper, LLaMA 3, Python, React |
+| 🧭 [**Mentorixy**](https://mentorixy.vercel.app/) | Open-source AI + human mentorship platform pairing an AI chatbot with real mentors | Next.js, AI, Open Source |
+| 🛡️ [**IndiaRaksha**](https://indiaraksha.vercel.app/) | Community-driven platform to report & verify scam numbers, websites, and apps | Next.js, Security, Open Source |
+| 📚 [**TaleTree**](https://taletree.com/) | Global kids' learning platform with AI-guided companions — partnered with NASA | Python, React, AI/ML |
 
-### 🔬 Data Science & Analysis
-Data Collection & Preprocessing · EDA · Feature Engineering · Statistical Analysis · Data Visualization
-
-### 🚀 Model Deployment & Production
-Model Serving (FastAPI/Flask/Django) · Docker · Kubernetes · AWS SageMaker/EC2/Lambda · REST APIs · Model Monitoring
+Full case studies (responsibilities, metrics, tech breakdown) are on my [portfolio](https://dukuru-venkatesh.vercel.app/projects).
 
 ---
 
-## 📖 Learning & Development
+## 🧗 Experience
 
-**Currently Learning:** Advanced Transformer Architectures · Multimodal AI (Vision + Language) · LLM Fine-tuning · Graph Neural Networks · Federated Learning · MLOps · Distributed Training
+- **AI Developer** @ Skills Agency — *Dec 2025–Present*
+- **AI/ML Mentor** @ Projectsplace — *Aug 2025–Dec 2025*
+- **AI/ML Developer** @ AKRA TECH Private Limited — *Sep 2024–Sep 2025*
+- **ML Engineer** @ EasyHiring — *May 2023–Aug 2024*
+- **CA** @ Cisco — *Jul 2023–Aug 2024*
 
-**Interests:** AI/ML Research · NLP & Generative AI · Computer Vision · Time Series Forecasting · Cloud-Native ML
-
----
-
-## 💡 Project Areas
-
-- **Predictive Analytics:** Sales forecasting, demand prediction, customer churn
-- **NLP:** Sentiment analysis, chatbots, text summarization, machine translation
-- **Computer Vision:** Image classification, object detection, face recognition
-- **Recommendation Systems:** Collaborative & content-based filtering
-- **Anomaly Detection:** Fraud detection, network intrusion detection
-- **Time Series:** Stock forecasting, traffic prediction, sensor data analysis
+Full role-by-role breakdown with responsibilities and tech: [dukuru-venkatesh.vercel.app/experience](https://dukuru-venkatesh.vercel.app/experience)
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 Achievements
+
+- 🥇 **Aideathon Winner** — Aditya Engineering College · VEDA 2023
+- 🏢 **Enterprise AI Platforms** shipped across healthcare, legal tech & education
+- 🧩 **40+ production AI templates** built for marketing, legal, and business automation
+- 🧑‍💻 **200+ APIs** built and deployed to production
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" title="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" title="Scikit-Learn"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40" title="Hugging Face"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40" title="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" title="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" title="Redis"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" title="Nginx"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+</p>
+
+**🧠 AI / ML** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square)
+
+**⚙️ Backend** &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**☁️ Cloud & DevOps** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**🎨 Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## 📖 Currently Exploring
+
+Advanced Transformer Architectures · Multimodal AI (Vision + Language) · LLM Fine-tuning · Graph Neural Networks · MLOps
+
+---
+
+## 📊 GitHub Streak
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkateshdukuru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshdukuru&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkateshdukuru&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -163,17 +190,12 @@ Model Serving (FastAPI/Flask/Django) · Docker · Kubernetes · AWS SageMaker/EC
 
 <div align="center">
 
-## 🚀 Open to Opportunities!
+### 🚀 Open to Opportunities!
 
-I'm actively looking for collaborations on **AI/ML projects**, **research initiatives**, and **open-source contributions**. Feel free to reach out!
+Actively looking for **freelance projects**, **full-time AI/ML roles**, and **collaborations**. Let's build something meaningful together — reach out on [WhatsApp](https://wa.me/916300982015), [Email](mailto:venkateshdukuru2266@gmail.com), or [LinkedIn](https://www.linkedin.com/in/dukuru-venkatesh-90793022b/).
 
-**Let's build something amazing together! 🎉**
+**Thanks for visiting — star ⭐ this profile if you found it useful!**
 
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkateshdukuru2266@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://dukuru-venkatesh.vercel.app)
-
-**Thanks for visiting! Don't forget to star ⭐ this profile if you found it helpful!**
-
-_Last updated: July 27, 2026_
+_Last updated: July 2026_
 
 </div>
