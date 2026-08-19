@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Dukuru Venkatesh
-### AI/ML Engineer · Full-Stack Developer · Founder
+### AI/ML Engineer · Full-Stack Developer · Founder · Freelancer
 
 Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automation & intelligent backends — with **4+ years** of hands-on experience.
 
