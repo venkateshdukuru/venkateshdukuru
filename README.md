@@ -8,7 +8,7 @@ Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automati
 ![Profile Views](https://komarev.com/ghpvc/?username=venkateshdukuru&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/venkateshdukuru?label=Followers&style=flat&color=0e75b6)
 
-[🌐 Portfolio](https://dukuru-venkatesh.vercel.app) · [✉️ Email](mailto:venkateshdukuru2266@gmail.com) · [💬 WhatsApp](https://wa.me/916300982015)
+[🌐 TheJobsPrint](https://thejobsprint.in) · [🌐 Portfolio](https://dukuru-venkatesh.vercel.app) · [✉️ Email](mailto:venkateshdukuru2266@gmail.com) · [💬 WhatsApp](https://wa.me/916300982015)
 
 </div>
 
@@ -17,7 +17,7 @@ Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automati
 ## 📌 Quick Overview
 
 - 🔭 **Currently:** AI Developer @ [Skills Agency](https://www.linkedin.com/company/skills-agency) (Bengaluru, On-site)
-- 🚀 **Founder:** [Dukuru AI](https://dukuru-ai.vercel.app/) & [ProjectsPlace](https://www.projectsplace.in/)
+- 🚀 **Founder:** [TheJobsPrint](https://thejobsprint.in), [Dukuru AI](https://dukuru-ai.vercel.app/) & [ProjectsPlace](https://www.projectsplace.in/)
 - 🎯 **Specialization:** LLMs, RAG systems, voice agents, computer vision, and enterprise AI automation
 - 📝 **Writing:** Regular contributor on [GeeksforGeeks](https://www.geeksforgeeks.org/user/dukuru_venkatesh/contributions/)
 - 📍 **Based in:** Visakhapatnam, Andhra Pradesh, India · open to remote & relocation
@@ -31,6 +31,7 @@ Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automati
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dukuru-venkatesh-90793022b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dukuru-venkatesh.vercel.app)
+[![TheJobsPrint](https://img.shields.io/badge/-TheJobsPrint-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thejobsprint.in)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916300982015)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dukuru_venkatesh/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dukuruvenkatesh)
@@ -47,13 +48,19 @@ Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automati
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### [TheJobsPrint](https://thejobsprint.in)
+A platform founded by Venkatesh Dukuru to help job seekers discover opportunities and advance their careers.
+
+</td>
+<td width="33%" valign="top">
 
 ### [Dukuru AI](https://dukuru-ai.vercel.app/)
 Personal AI platform showcasing generative AI tools, agents, and automated workflows — built end-to-end with Next.js, FastAPI, and LangChain.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [ProjectsPlace](https://www.projectsplace.in/)
 A platform connecting developers and learners through hands-on, mentor-guided project experience — from idea to deployment.
@@ -69,7 +76,7 @@ A platform connecting developers and learners through hands-on, mentor-guided pr
 | Project | What it does | Stack |
 |---|---|---|
 | 🎙️ [**Votiva**](https://votiva.kluvor.co/) | AI voice agents automating customer calls & sales conversations at scale | FastAPI, LangChain, OpenAI, Gemini, AWS EC2 |
-| 📊 [**KaratMind**](https://karatmind.com/home) | Sales intelligence platform: transcribes & analyzes in-store retail conversations for coaching insights | Groq Whisper, LLaMA 3, Python, React |
+| 📊 [**KaratMind**](https://karatmind.com/home) | Sales intelligence platform: transcribes & analyzes in-store retail conversations for coaching insights | Groq Whisper, LLaMA 3, Python, React [...] |
 | 🧭 [**Mentorixy**](https://mentorixy.vercel.app/) | Open-source AI + human mentorship platform pairing an AI chatbot with real mentors | Next.js, AI, Open Source |
 | 🛡️ [**IndiaRaksha**](https://indiaraksha.vercel.app/) | Community-driven platform to report & verify scam numbers, websites, and apps | Next.js, Security, Open Source |
 | 📚 [**TaleTree**](https://taletree.com/) | Global kids' learning platform with AI-guided companions — partnered with NASA | Python, React, AI/ML |
@@ -192,10 +199,10 @@ Advanced Transformer Architectures · Multimodal AI (Vision + Language) · LLM F
 
 ### 🚀 Open to Opportunities!
 
-Actively looking for **freelance projects**, **full-time AI/ML roles**, and **collaborations**. Let's build something meaningful together — reach out on [WhatsApp](https://wa.me/916300982015), [Email](mailto:venkateshdukuru2266@gmail.com), or [LinkedIn](https://www.linkedin.com/in/dukuru-venkatesh-90793022b/).
+Actively looking for **freelance projects**, **full-time AI/ML roles**, and **collaborations**. Let's build something meaningful together — reach out on [WhatsApp](https://wa.me/916300982015), [...]
 
 **Thanks for visiting — star ⭐ this profile if you found it useful!**
 
-_Last updated: July 2026_
+_Last updated: October 2026_
 
 </div>
