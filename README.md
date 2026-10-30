@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Dukuru Venkatesh
-### AI/ML Engineer · Full-Stack Developer · Founder · Freelancer
+### Generative AI Developer · AI/ML Engineer · Full-Stack Developer · Founder · Freelancer
 
-Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automation & intelligent backends — with **4+ years** of hands-on experience.
+Generative AI Developer building enterprise AI systems — **RAG chatbots, LLM agents, voice agents, WhatsApp automation & intelligent backends** — with **4+ years** of hands-on experience in Python, LangChain, and cloud-native AI deployment.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=venkateshdukuru&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/venkateshdukuru?label=Followers&style=flat&color=0e75b6)
@@ -16,12 +16,12 @@ Building enterprise AI systems — RAG chatbots, voice agents, WhatsApp automati
 
 ## 📌 Quick Overview
 
-- 🔭 **Currently:** AI Developer @ [Skills Agency](https://www.linkedin.com/company/skills-agency) (Bengaluru, On-site)
+- 🔭 **Currently:** Generative AI Developer @ **EY** (Remote)
 - 🚀 **Founder:** [TheJobsPrint](https://thejobsprint.in), [Dukuru AI](https://dukuru-ai.vercel.app/) & [ProjectsPlace](https://www.projectsplace.in/)
-- 🎯 **Specialization:** LLMs, RAG systems, voice agents, computer vision, and enterprise AI automation
+- 🎯 **Specialization:** Generative AI, LLMs, RAG systems, AI agents, voice agents, computer vision, and enterprise AI automation
 - 📝 **Writing:** Regular contributor on [GeeksforGeeks](https://www.geeksforgeeks.org/user/dukuru_venkatesh/contributions/)
-- 📍 **Based in:** Visakhapatnam, Andhra Pradesh, India · open to remote & relocation
-- 💼 **Open to:** Freelance projects, full-time roles, and AI/ML collaborations
+- 📍 **Based in:** Visakhapatnam, Andhra Pradesh, India · working remotely for EY · open to relocation
+- 💼 **Open to:** Freelance projects, full-time Generative AI / ML roles, and AI consulting collaborations
 
 ---
 
@@ -87,7 +87,8 @@ Full case studies (responsibilities, metrics, tech breakdown) are on my [portfol
 
 ## 🧗 Experience
 
-- **AI Developer** @ Skills Agency — *Dec 2025–Present*
+- **Generative AI Developer** @ EY — *Jun 2026–Present* (Remote)
+- **AI Developer** @ Skills Agency — *Dec 2025–Jun 2026*
 - **AI/ML Mentor** @ Projectsplace — *Aug 2025–Dec 2025*
 - **AI/ML Developer** @ AKRA TECH Private Limited — *Sep 2024–Sep 2025*
 - **ML Engineer** @ EasyHiring — *May 2023–Aug 2024*
@@ -195,6 +196,12 @@ Advanced Transformer Architectures · Multimodal AI (Vision + Language) · LLM F
 
 ---
 
+## 🔑 Topics & Keywords
+
+`Generative AI Developer` · `AI/ML Engineer` · `LLM Engineer` · `RAG Systems` · `LangChain Developer` · `AI Agents` · `Voice AI Agents` · `Chatbot Development` · `Computer Vision` · `Python Developer` · `FastAPI Developer` · `Full-Stack Developer` · `Remote AI Engineer` · `EY` · `India`
+
+---
+
 <div align="center">
 
 ### 🚀 Open to Opportunities!
@@ -203,6 +210,6 @@ Actively looking for **freelance projects**, **full-time AI/ML roles**, and **co
 
 **Thanks for visiting — star ⭐ this profile if you found it useful!**
 
-_Last updated: October 2026_
+_Last updated: October 2026 — now at EY (Remote) as Generative AI Developer_
 
 </div>
